@@ -1,4 +1,4 @@
-import { supabase } from '@lib/superbase/superbase.config';
+import { supabase } from '@lib/supabase/supabase.config';
 import React, { useState } from 'react';
 
 const CreatePost = ({ addPost }) => {
